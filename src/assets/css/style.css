@@ -1,0 +1,19 @@
+body {
+    background-color: #1F2739 ;
+    font-family: Microsoft JhengHei;
+    color: white;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
