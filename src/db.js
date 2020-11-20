@@ -3,7 +3,7 @@ import 'firebase/firestore';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDrl74CVw2nECsmY-9N9ml7dzHwshsJULQ",
+  apiKey: "",
   authDomain: "gggg-aa2e0.firebaseapp.com",
   databaseURL: "https://gggg-aa2e0.firebaseio.com",
   projectId: "gggg-aa2e0",
